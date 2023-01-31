@@ -30,13 +30,6 @@ public class MyImpl implements IMyImpl {
 
             return false;
         });
-
-        //simplify
-/*        for (var element:elements) {
-            if(element.getText().contains(check))
-                return true;
-
-        }*/
     }
 
     @Override
